@@ -1,0 +1,4 @@
+{
+  "name": "Boardroom AI",
+  "description": "A multi-agent evaluation boardroom using Gemini to analyze documents in parallel, tailored to specific software types and goals."
+}
